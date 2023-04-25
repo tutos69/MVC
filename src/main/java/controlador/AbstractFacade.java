@@ -15,6 +15,7 @@ import javax.persistence.criteria.CriteriaQuery;
  * @author edwin
  * @param <T>
  */
+///
 public abstract class AbstractFacade<T> {
 
     private Class<T> entityClass;
